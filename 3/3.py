@@ -50,3 +50,5 @@ for k, v in nums.items():
         res += (v[0] * v[1])
 
 print(res)
+
+
